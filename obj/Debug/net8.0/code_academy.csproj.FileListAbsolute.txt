@@ -1,0 +1,15 @@
+C:\Users\casa\Documents\GitHub\code_academy\bin\Debug\net8.0\code_academy.exe
+C:\Users\casa\Documents\GitHub\code_academy\bin\Debug\net8.0\code_academy.deps.json
+C:\Users\casa\Documents\GitHub\code_academy\bin\Debug\net8.0\code_academy.runtimeconfig.json
+C:\Users\casa\Documents\GitHub\code_academy\bin\Debug\net8.0\code_academy.dll
+C:\Users\casa\Documents\GitHub\code_academy\bin\Debug\net8.0\code_academy.pdb
+C:\Users\casa\Documents\GitHub\code_academy\obj\Debug\net8.0\code_academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casa\Documents\GitHub\code_academy\obj\Debug\net8.0\code_academy.AssemblyInfoInputs.cache
+C:\Users\casa\Documents\GitHub\code_academy\obj\Debug\net8.0\code_academy.AssemblyInfo.cs
+C:\Users\casa\Documents\GitHub\code_academy\obj\Debug\net8.0\code_academy.csproj.CoreCompileInputs.cache
+C:\Users\casa\Documents\GitHub\code_academy\obj\Debug\net8.0\code_academy.sourcelink.json
+C:\Users\casa\Documents\GitHub\code_academy\obj\Debug\net8.0\code_academy.dll
+C:\Users\casa\Documents\GitHub\code_academy\obj\Debug\net8.0\refint\code_academy.dll
+C:\Users\casa\Documents\GitHub\code_academy\obj\Debug\net8.0\code_academy.pdb
+C:\Users\casa\Documents\GitHub\code_academy\obj\Debug\net8.0\code_academy.genruntimeconfig.cache
+C:\Users\casa\Documents\GitHub\code_academy\obj\Debug\net8.0\ref\code_academy.dll
